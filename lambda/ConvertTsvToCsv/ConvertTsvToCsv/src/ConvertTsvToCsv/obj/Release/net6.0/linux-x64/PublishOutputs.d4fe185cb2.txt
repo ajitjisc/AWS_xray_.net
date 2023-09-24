@@ -1,0 +1,14 @@
+/Users/ajit/Desktop/AWS_xray_.net/lambda/ConvertTsvToCsv/ConvertTsvToCsv/src/ConvertTsvToCsv/bin/Release/net6.0/publish/ConvertTsvToCsv.deps.json
+/Users/ajit/Desktop/AWS_xray_.net/lambda/ConvertTsvToCsv/ConvertTsvToCsv/src/ConvertTsvToCsv/bin/Release/net6.0/publish/ConvertTsvToCsv.runtimeconfig.json
+/Users/ajit/Desktop/AWS_xray_.net/lambda/ConvertTsvToCsv/ConvertTsvToCsv/src/ConvertTsvToCsv/bin/Release/net6.0/publish/ConvertTsvToCsv.pdb
+/Users/ajit/Desktop/AWS_xray_.net/lambda/ConvertTsvToCsv/ConvertTsvToCsv/src/ConvertTsvToCsv/bin/Release/net6.0/publish/Amazon.Lambda.Core.dll
+/Users/ajit/Desktop/AWS_xray_.net/lambda/ConvertTsvToCsv/ConvertTsvToCsv/src/ConvertTsvToCsv/bin/Release/net6.0/publish/Amazon.Lambda.S3Events.dll
+/Users/ajit/Desktop/AWS_xray_.net/lambda/ConvertTsvToCsv/ConvertTsvToCsv/src/ConvertTsvToCsv/bin/Release/net6.0/publish/Amazon.Lambda.Serialization.Json.dll
+/Users/ajit/Desktop/AWS_xray_.net/lambda/ConvertTsvToCsv/ConvertTsvToCsv/src/ConvertTsvToCsv/bin/Release/net6.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/ajit/Desktop/AWS_xray_.net/lambda/ConvertTsvToCsv/ConvertTsvToCsv/src/ConvertTsvToCsv/bin/Release/net6.0/publish/Amazon.Lambda.SQSEvents.dll
+/Users/ajit/Desktop/AWS_xray_.net/lambda/ConvertTsvToCsv/ConvertTsvToCsv/src/ConvertTsvToCsv/bin/Release/net6.0/publish/AWSSDK.Core.dll
+/Users/ajit/Desktop/AWS_xray_.net/lambda/ConvertTsvToCsv/ConvertTsvToCsv/src/ConvertTsvToCsv/bin/Release/net6.0/publish/AWSSDK.S3.dll
+/Users/ajit/Desktop/AWS_xray_.net/lambda/ConvertTsvToCsv/ConvertTsvToCsv/src/ConvertTsvToCsv/bin/Release/net6.0/publish/AWSXRayRecorder.Core.dll
+/Users/ajit/Desktop/AWS_xray_.net/lambda/ConvertTsvToCsv/ConvertTsvToCsv/src/ConvertTsvToCsv/bin/Release/net6.0/publish/AWSXRayRecorder.Handlers.AwsSdk.dll
+/Users/ajit/Desktop/AWS_xray_.net/lambda/ConvertTsvToCsv/ConvertTsvToCsv/src/ConvertTsvToCsv/bin/Release/net6.0/publish/Newtonsoft.Json.dll
+/Users/ajit/Desktop/AWS_xray_.net/lambda/ConvertTsvToCsv/ConvertTsvToCsv/src/ConvertTsvToCsv/bin/Release/net6.0/publish/ConvertTsvToCsv.dll

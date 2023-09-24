@@ -1,0 +1,208 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ajit/Desktop/AWS_xray_.net/lambda/CheckCsvColumns/CheckCsvColumns/test/CheckCsvColumns.Tests/CheckCsvColumns.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/ajit/Desktop/AWS_xray_.net/lambda/CheckCsvColumns/CheckCsvColumns/src/CheckCsvColumns/CheckCsvColumns.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ajit/Desktop/AWS_xray_.net/lambda/CheckCsvColumns/CheckCsvColumns/src/CheckCsvColumns/CheckCsvColumns.csproj",
+        "projectName": "CheckCsvColumns",
+        "projectPath": "/Users/ajit/Desktop/AWS_xray_.net/lambda/CheckCsvColumns/CheckCsvColumns/src/CheckCsvColumns/CheckCsvColumns.csproj",
+        "packagesPath": "/Users/ajit/.nuget/packages/",
+        "outputPath": "/Users/ajit/Desktop/AWS_xray_.net/lambda/CheckCsvColumns/CheckCsvColumns/src/CheckCsvColumns/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ajit/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.7.201.16, )"
+            },
+            "AWSSDK.StepFunctions": {
+              "target": "Package",
+              "version": "[3.7.200.27, )"
+            },
+            "AWSXRayRecorder.Core": {
+              "target": "Package",
+              "version": "[2.14.0, )"
+            },
+            "AWSXRayRecorder.Handlers.AwsSdk": {
+              "target": "Package",
+              "version": "[2.12.0, )"
+            },
+            "Amazon.Lambda.Core": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Amazon.Lambda.S3Events": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Amazon.Lambda.Serialization.Json": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Amazon.Lambda.Serialization.SystemTextJson": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.19, 6.0.19]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Crossgen2.osx-x64",
+              "version": "[6.0.19, 6.0.19]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.19, 6.0.19]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.305/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ajit/Desktop/AWS_xray_.net/lambda/CheckCsvColumns/CheckCsvColumns/test/CheckCsvColumns.Tests/CheckCsvColumns.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ajit/Desktop/AWS_xray_.net/lambda/CheckCsvColumns/CheckCsvColumns/test/CheckCsvColumns.Tests/CheckCsvColumns.Tests.csproj",
+        "projectName": "CheckCsvColumns.Tests",
+        "projectPath": "/Users/ajit/Desktop/AWS_xray_.net/lambda/CheckCsvColumns/CheckCsvColumns/test/CheckCsvColumns.Tests/CheckCsvColumns.Tests.csproj",
+        "packagesPath": "/Users/ajit/.nuget/packages/",
+        "outputPath": "/Users/ajit/Desktop/AWS_xray_.net/lambda/CheckCsvColumns/CheckCsvColumns/test/CheckCsvColumns.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ajit/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/ajit/Desktop/AWS_xray_.net/lambda/CheckCsvColumns/CheckCsvColumns/src/CheckCsvColumns/CheckCsvColumns.csproj": {
+                "projectPath": "/Users/ajit/Desktop/AWS_xray_.net/lambda/CheckCsvColumns/CheckCsvColumns/src/CheckCsvColumns/CheckCsvColumns.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Amazon.Lambda.Core": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Amazon.Lambda.TestUtilities": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.5.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.19, 6.0.19]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.19, 6.0.19]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.305/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
